@@ -1,6 +1,6 @@
 # banner
 banner:
-  title : "Hi! I’m <br> Christoher <br> UX designer"
+  title : "Hi! I’m <br> Simeon <br> Web and app Developper and Designer"
 
 # about
 about:
@@ -20,11 +20,11 @@ skill:
       progress : "90%"
       color : "#fdb157"
       
-    - title : "Logo Design"
+    - title : "Python Programmer"
       progress : "60%"
       color : "#9473e6"
       
-    - title : "After Effects"
+    - title : "Infography"
       progress : "80%"
       color : "#bdecf6"
       
